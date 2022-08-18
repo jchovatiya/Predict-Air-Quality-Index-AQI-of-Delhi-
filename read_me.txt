@@ -8,5 +8,5 @@ Predict Air Quality Index (AQI) of Delhi
 
 
 # How to open app
-1) Put app.py and .pkl file at C:\Users\Guru
+1) Put app.py and .pkl file at C:\Users\Computer name
 2) write in commond prompy 'streamlit run app.py'
