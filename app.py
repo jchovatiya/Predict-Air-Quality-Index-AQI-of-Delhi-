@@ -4,7 +4,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-import matplotlib.pyplot as plt
 import sklearn
 from sklearn.ensemble import RandomForestRegressor
 
