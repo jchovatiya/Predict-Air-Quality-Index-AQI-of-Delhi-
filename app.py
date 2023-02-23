@@ -7,8 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sklearn
 from sklearn.ensemble import RandomForestRegressor
-import warnings
-warnings.filterwarnings("ignore")
+
 
 
 # loading the trained model
